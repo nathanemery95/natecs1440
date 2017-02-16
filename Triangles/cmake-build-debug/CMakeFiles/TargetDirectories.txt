@@ -1,0 +1,4 @@
+C:/Users/Nathan/Documents/GitHub/nateemery.repocs1440/Triangles/cmake-build-debug/CMakeFiles/Triangles.dir
+C:/Users/Nathan/Documents/GitHub/nateemery.repocs1440/Triangles/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Nathan/Documents/GitHub/nateemery.repocs1440/Triangles/cmake-build-debug/CMakeFiles/Test.dir
+C:/Users/Nathan/Documents/GitHub/nateemery.repocs1440/Triangles/cmake-build-debug/CMakeFiles/edit_cache.dir
